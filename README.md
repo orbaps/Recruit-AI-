@@ -245,4 +245,4 @@ Found a bug or want to contribute?
 
 ---
 
-**🚀 Built with ❤️ by [Amarendra Pratap Singh](https://github.com/orbaps) | Enhanced from original work by [Bellmir Yahya](https://github.com/Yasouimo)**
+**🚀 Built with ❤️ by [Amarendra Pratap Singh](https://github.com/orbaps) 
